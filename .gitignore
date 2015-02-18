@@ -1,3 +1,11 @@
+### OSX ###
+.DS_Store
+Thumbs.db
+
+### Hubot ###
 node_modules
-.DS_Store*
 .hubot_history
+
+### Intellij ###
+*.iml
+.idea/
